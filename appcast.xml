@@ -4,14 +4,14 @@
     <title>Convexity Updates</title>
     <item>
       <title>Version 0.0.2</title>
-      <pubDate>Tue, 13 May 2025 16:44:59 +0000</pubDate>
+      <pubDate>Tue, 13 May 2025 16:59:35 +0000</pubDate>
       <enclosure 
         url="https://github.com/bayesian-energy/convexity-updates/releases/download/v0.0.2/Convexity_0.0.2_macOS.dmg"
         sparkle:version="0.0.2" 
         sparkle:shortVersionString="0.0.2"
-        length="263060217"
+        length="263073094"
         type="application/octet-stream"
-        sparkle:edSignature="t3SsYt5aF+4JqcnE+6AqjZrxgQYf7vhDJz3RF+k392OWQwBkuCvG7NhSiH0lgyBiR/iuKnqVlTaFxNJZgJeADw==" />
+        sparkle:edSignature="6Rdg/XG/xBQXsLPuLMLDh4aG+J/Hg2zVBh0CSCtc+fQuXlq1S8Rogz77vUBWP0fUGExj7u8htzEFZhpSgP/vCA==" />
     </item>
   </channel>
 </rss>
