@@ -3,15 +3,15 @@
   <channel>
     <title>Convexity Updates</title>
     <item>
-      <title>Version 0.0.2</title>
-      <pubDate>Tue, 13 May 2025 16:59:35 +0000</pubDate>
+      <title>Version 0.0.3</title>
+      <pubDate>Tue, 13 May 2025 17:22:05 +0000</pubDate>
       <enclosure 
-        url="https://github.com/bayesian-energy/convexity-updates/releases/download/v0.0.2/Convexity_0.0.2_macOS.dmg"
-        sparkle:version="0.0.2" 
-        sparkle:shortVersionString="0.0.2"
-        length="263073094"
+        url="https://github.com/bayesian-energy/convexity-updates/releases/download/v0.0.3/Convexity_0.0.3_macOS.dmg"
+        sparkle:version="0.0.3" 
+        sparkle:shortVersionString="0.0.3"
+        length="263066034"
         type="application/octet-stream"
-        sparkle:edSignature="6Rdg/XG/xBQXsLPuLMLDh4aG+J/Hg2zVBh0CSCtc+fQuXlq1S8Rogz77vUBWP0fUGExj7u8htzEFZhpSgP/vCA==" />
+        sparkle:edSignature="pKGHbqDN2a8l/7lNwyG9YALbNpTymdr16Aw+uriqL42r6Xc2KoYl1zgwXut58XtFJqS4SbkeC98+29gLnyt9AA==" />
     </item>
   </channel>
 </rss>
