@@ -1,0 +1,17 @@
+Copyright © 2025 Bayesian Energy. All rights reserved.
+
+This software and its associated files (including, but not limited to, installers, source code, and documentation) are proprietary and confidential. 
+
+By accessing, downloading, or using this repository, you agree to the following terms:
+
+1. **No Redistribution**: You may not copy, share, or redistribute any part of this repository or its contents without express written permission from [Your Company Name].
+
+2. **No Reverse Engineering**: You may not reverse engineer, decompile, disassemble, or attempt to derive the source code, structure, or algorithms of any binaries or compiled materials.
+
+3. **No Modification**: You may not modify or create derivative works based on the materials in this repository.
+
+4. **No Commercial Use**: This software is provided solely for evaluation and internal use by licensed parties. Any commercial use is strictly prohibited unless separately licensed.
+
+5. **Disclaimer**: This software is provided "as is" without warranties of any kind. Use is at your own risk.
+
+All rights not expressly granted are reserved by Bayesian Energy.
